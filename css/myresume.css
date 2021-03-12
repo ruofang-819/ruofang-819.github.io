@@ -9,3 +9,25 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .subheading {
 	font-family: 'Playfair Display', serif;
 }
+
+h1, .h1 {
+	font-size: 5rem;
+}
+
+p.lead {
+	font-size: 1.2rem;
+}
+
+.bg-primary {
+	background-color: #aa00ff;
+    background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.text-primary {
+	color: #aa00ff!important;
+}
+
+a{
+	color: #aa00ff;
+}

@@ -19,7 +19,7 @@ p.lead {
 }
 
 .bg-primary {
-	background-color: #ad0aff;
+	background-color: #ad0aff!important;
     background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }

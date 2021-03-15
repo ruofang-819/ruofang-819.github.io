@@ -19,17 +19,17 @@ p.lead {
 }
 
 .bg-primary {
-	background-color: #ad0aff !important;
-    background-image: url #ad0aff("https://www.transparenttextures.com/patterns/batthern.png");
+	background-color: #9282bd;
+background-image: url #9282bd("https://www.transparenttextures.com/patterns/batthern.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 .text-primary {
-	color: #ad0aff!important;
+	color: #9282bd!important;
 }
 
 a{
-	color: #ad0aff;
+	color: #9282bd;
 }
 
 .subheading {

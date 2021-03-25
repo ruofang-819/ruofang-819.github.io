@@ -20,7 +20,7 @@ p.lead {
 
 .bg-primary {
 	background-color: #9282bd;
-    background-image: url (../assets/img/batthern.png);
+    background-image: url (../assets/img/batthern);
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 

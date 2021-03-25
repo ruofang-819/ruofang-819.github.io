@@ -39,3 +39,8 @@ a{
 h1, h2, h3, h4, h5, h6 {
     text-transform: none;
 }
+
+body{
+	background-color: #a59bbd;
+    background-image: url("https://www.transparenttextures.com/patterns/light-toast.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */

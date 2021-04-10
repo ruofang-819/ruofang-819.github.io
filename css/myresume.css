@@ -45,7 +45,7 @@ body{
 background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
 }
 
-.jumbotron ul{
+ul{
 	list-style-type:square;
 }
 

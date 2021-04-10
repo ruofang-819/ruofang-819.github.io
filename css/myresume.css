@@ -49,8 +49,8 @@ background-image: url("https://www.transparenttextures.com/patterns/ag-square.pn
 	list-style-type:square;
 }
 
-ol>li:hover{
-	background-color: #fff;
+li:hover{
+	color:#ffffff;
 }
 
 

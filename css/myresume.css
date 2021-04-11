@@ -48,12 +48,3 @@ background-image: url("https://www.transparenttextures.com/patterns/ag-square.pn
 .fa-ul {
 	list-style-type:square;
 }
-
-.list-group-item {
-    padding: 0.75rem 1.25rem;
-    border: 1px solid rgba(0, 0, 0, 0.125);
-}
-
-.list-group-flush > .list-group-item {
-    border-width: 0 0 1px;
-}

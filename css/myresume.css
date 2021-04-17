@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body{
-	background-color: #c0bae3;
+	background-color:  ;
 background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
 }
 
@@ -49,14 +49,3 @@ background-image: url("https://www.transparenttextures.com/patterns/ag-square.pn
 	list-style-type:square;
 }
 
-table{
-	width:80%;
-}
-
-tr:nth-child(even){
-	background-color:#ada6bd;
-}
-
-td{
-	border:1px solid #2a5d44;
-}

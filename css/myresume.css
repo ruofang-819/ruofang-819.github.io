@@ -64,3 +64,6 @@ td{
 .card {
 	background-color:#c0bae3
 }
+
+.card-header {
+	background-color: rgba(0, 0, 0,4);

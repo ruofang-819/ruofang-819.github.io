@@ -49,3 +49,14 @@ background-image: url("https://www.transparenttextures.com/patterns/ag-square.pn
 	list-style-type:square;
 }
 
+table{
+	width:80%;
+}
+
+tr:nth-child(even){
+	background-color:#9282bd;
+}
+
+td{
+	border:1px solid #2a5d44;
+}
